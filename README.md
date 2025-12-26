@@ -18,4 +18,6 @@
 
 ### Resutados
 
+Apesar de ter seguido os passos corretamente, não foi possível capturar, possívelmente por atualização de segurança dos navegadores ou por conta de antivírus instalado no dispositivo.
+
 ![Alt text](./screenshot.png "Optional title")
